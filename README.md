@@ -1,9 +1,7 @@
-# Suppression or Deletion: A Restoration-Based Representation-Level Analysis of Machine Unlearning
+# Suppression or Deletion: A Restoration-Based Representation-Level Analysis of Machine Unlearning (WWW '26)
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.2+-ee4c2c.svg)](https://pytorch.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 
 ---
 
