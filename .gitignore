@@ -83,3 +83,4 @@ MANIFEST
 
 # Weights and Biases
 wandb/
+HF_README.md
