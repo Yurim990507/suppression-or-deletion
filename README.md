@@ -1,5 +1,6 @@
 # Suppression or Deletion: A Restoration-Based Representation-Level Analysis of Machine Unlearning (WWW '26)
 
+[![arXiv](https://img.shields.io/badge/arXiv-2602.18505-b31b1b.svg)](https://arxiv.org/abs/2602.18505)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.2+-ee4c2c.svg)](https://pytorch.org/)
 
@@ -144,7 +145,7 @@ This repository supports **CIFAR-10** and **Imagenette** datasets used in our ex
 If you find this work useful, please cite our paper:
 ```bibtex
 @article{jang2026suppression,
-  title={Suppression or Deletion: A Restoration-Based Representation-Level Analysis of Machine Unlearning},
+  title={{Suppression or Deletion}: A Restoration-Based Representation-Level Analysis of Machine Unlearning},
   author={Jang, Yurim and Lee, Jaeung and Kim, Dohyun and Jo, Jaemin and Woo, Simon S},
   journal={arXiv preprint arXiv:2602.18505},
   year={2026}
