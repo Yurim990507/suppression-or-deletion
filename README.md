@@ -144,10 +144,11 @@ This repository supports **CIFAR-10** and **Imagenette** datasets used in our ex
 
 If you find this work useful, please cite our paper:
 ```bibtex
-@article{jang2026suppression,
-  title={{Suppression or Deletion}: A Restoration-Based Representation-Level Analysis of Machine Unlearning},
+@inproceedings{jang2026suppression,
+  title={Suppression or Deletion: A Restoration-Based Representation-Level Analysis of Machine Unlearning},
   author={Jang, Yurim and Lee, Jaeung and Kim, Dohyun and Jo, Jaemin and Woo, Simon S},
-  journal={arXiv preprint arXiv:2602.18505},
+  booktitle={Proceedings of the ACM Web Conference 2026},
+  pages={8505--8508},
   year={2026}
 }
 ```
